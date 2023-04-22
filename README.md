@@ -16,7 +16,7 @@ Press `RightShift` to open or close Victorware. For the best experience, a stron
 
 ## :rocket: Quick start
 
-`Lag: Level 2` and `Delay: 0.7` is recommended for all games
+`Lag Level: 2` and `Delay: 0.7` is recommended for all games
 
 ### :pushpin: Latest release
 
