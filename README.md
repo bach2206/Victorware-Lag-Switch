@@ -10,7 +10,5 @@
 Runs the latest release build of Victorware.
 
 ```lua
-loadstring(
-  game:HttpGetAsync("https://raw.githubusercontent.com/bach2206/Victorware-Lag-Switch/main/Victorware.lua")
-)()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/bach2206/Victorware-Lag-Switch/main/Victorware.lua"))()
 ```
