@@ -7,7 +7,7 @@
 
 ### :pushpin: Latest release
 
-Runs the latest release build of Orca.
+Runs the latest release build of Victorware.
 
 ```lua
 soon
